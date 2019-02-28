@@ -5096,10 +5096,10 @@ gatsby-plugin-sitemap@2.0.6:
     pify "^3.0.0"
     sitemap "^1.12.0"
 
-gatsby-plugin-sri@1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sri/-/gatsby-plugin-sri-1.0.5.tgz#df722e5a7de5bbbb3a651fe623eabcfb66e195c4"
-  integrity sha512-KXs4TKO3atqhvLAF2HcaqRi4v7A1hj59mCNS1sHktexBGi7cktcQRbw+uoFcJ+XDYEOWPa1ArMQXRFzn+H2hig==
+gatsby-plugin-sri@1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sri/-/gatsby-plugin-sri-1.0.6.tgz#4ea3c25c53b5d7826f54b07860497da9a4e9f60b"
+  integrity sha512-qOjYogRvWqPNd7YyBr+qCvm5bJ5GTmYD4su6+LyyeKOr759/6FARCNTRUTSA9hJ6iT+HKKRisUdOKWyyiukPCw==
   dependencies:
     replace-in-file "^3.4.3"
 
