@@ -5384,10 +5384,10 @@ gatsby-plugin-sitemap@2.1.0:
     pify "^3.0.0"
     sitemap "^1.12.0"
 
-gatsby-plugin-sri@1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sri/-/gatsby-plugin-sri-1.0.7.tgz#3b5f5e42c61c506c687a8f83565af313e3455943"
-  integrity sha512-ZVxzThLCwhujpcKQIF9++0PeGBwLxM7ExWW4VO6ARdl2tZujenOvHPbMi5PIt5clQlMjvZjqsfQuO2xG9btPOQ==
+gatsby-plugin-sri@1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sri/-/gatsby-plugin-sri-1.0.8.tgz#d467129339b732eab413609412da2f0c1692a5cb"
+  integrity sha512-dOFgt46PBGUV+LA0WMX+3oZ/fUe5mM3+cNnbvz/u04aT4dSIbtO3G1eM0NKBIj0rVBT1+Z9CZlXojAdIAralXA==
   dependencies:
     replace-in-file "^4.0.0"
 
