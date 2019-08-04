@@ -5508,12 +5508,12 @@ gatsby-plugin-sitemap@2.2.5:
     pify "^3.0.0"
     sitemap "^1.12.0"
 
-gatsby-plugin-sri@1.0.8:
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sri/-/gatsby-plugin-sri-1.0.8.tgz#d467129339b732eab413609412da2f0c1692a5cb"
-  integrity sha512-dOFgt46PBGUV+LA0WMX+3oZ/fUe5mM3+cNnbvz/u04aT4dSIbtO3G1eM0NKBIj0rVBT1+Z9CZlXojAdIAralXA==
+gatsby-plugin-sri@1.0.9:
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sri/-/gatsby-plugin-sri-1.0.9.tgz#8137557736a9f8736c06326e92662d8bfae2ea4a"
+  integrity sha512-bTMNYScLBayA1s33CtWDyJBxc46K6VIhoOtLjjtOrrgPVSPJwh5cdKswo2muwuwOawOd1uhabS4h3GVZ0Ad+Vw==
   dependencies:
-    replace-in-file "^4.0.0"
+    replace-in-file "^4.1.1"
 
 gatsby-plugin-typography@2.3.2:
   version "2.3.2"
@@ -10798,10 +10798,10 @@ replace-ext@1.0.0, replace-ext@^1.0.0:
   resolved "https://registry.yarnpkg.com/replace-ext/-/replace-ext-1.0.0.tgz#de63128373fcbf7c3ccfa4de5a480c45a67958eb"
   integrity sha1-3mMSg3P8v3w8z6TeWkgMRaZ5WOs=
 
-replace-in-file@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/replace-in-file/-/replace-in-file-4.0.0.tgz#824c04b453f8eaa617aa47f133e99dcbc8b19368"
-  integrity sha512-qbKJSOYMVSRzd10d0dOsGZoKQFMV17c2Vns9HH64pAYuPQO4xyDvwUOro2wYOk4kkerooTKbPSD6ETSdlHspuQ==
+replace-in-file@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/replace-in-file/-/replace-in-file-4.1.1.tgz#f9d5f4665e708cc15a23c900e7596c3792e08a93"
+  integrity sha512-0Va403DpFFRpm6oIsEf2U9fH9mVuDgRmSbXwrzpC3tmGduah9FhJJmu424rlogJo+0t7ho9f1HOpR+0qcXtzWQ==
   dependencies:
     chalk "^2.4.2"
     glob "^7.1.3"
